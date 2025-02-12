@@ -23,7 +23,7 @@ npm install`` or
 ``
 npm i``
 
-### ***3️⃣ Set Up MongoDB**
+### **3️⃣ Set Up MongoDB**
 Ensure you have MongoDB running locally or use a cloud database like MongoDB Atlas. If not download and install MongoDB from [mongodb.com](https://www.mongodb.com/try/download/community) and follow the instructions to set up a local MongoDB instance.
 
 - If using local MongoDB, start it with:
